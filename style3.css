@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(216, 235, 245);
+    font-family: 'Times New Roman', Times, serif;
+}
+.container{
+
+    width: 360px;
+    padding: 33px;
+    text-align: center;
+    background-color:#ce8cf8;
+    margin-left: 33%;
+    margin-top: 5px;
+    justify-content: center;
+    display: flex;
+    max-width: 500px;
+    margin: auto;
+}
